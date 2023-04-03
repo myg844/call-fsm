@@ -1,0 +1,16 @@
+[package]
+name = "call-fsm"
+version = "0.1.0"
+edition = "2021"
+authors = [
+    "Oleg Golan <oleg.golan85@gmail.com>",
+]
+license = "MIT"
+readme  = "README.md"
+description = "A simple, callback based, finite state machine handler"
+keywords    = ["fsm", "callback", "sm"]
+repository  = "https://github.com/myg844/call-fsm.git"
+homepage    = "https://github.com/myg844/call-fsm"
+
+[dev-dependencies]
+chrono = "0.4.24"
